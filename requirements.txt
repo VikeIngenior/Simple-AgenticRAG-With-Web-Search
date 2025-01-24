@@ -10,3 +10,5 @@ python-dotenv
 pytest
 langchain-openai
 langchain-chroma
+langchain_core
+pydantic
