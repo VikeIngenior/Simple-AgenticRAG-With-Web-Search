@@ -8,7 +8,7 @@ load_dotenv()
 class GradeAnswer(BaseModel):
     """Binary score for satisfaction check between the user question and LLM generation"""
 
-    binary_score: str = Field(
+    binary_score: bool = Field(
         description="Answer addresses the question, 'yes' or 'no'"
     )
 
