@@ -1,4 +1,4 @@
-<h3>Simple Agentic Rag Using Web Pages</h3>
+<h1>Simple Agentic Rag Using Web Pages</h1>
 The websites used were: ibm.com, investopedia.com, and bitcoin.com
 
 <h2>Environment Varibles</h2>
